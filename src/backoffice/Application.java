@@ -1,5 +1,4 @@
-package atb.main;
-
+package backoffice;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
