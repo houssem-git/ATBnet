@@ -14,7 +14,6 @@ import javax.persistence.Column;
 public class AccountType  {
 	
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name="suffix")
 	private int suffix;
 	private String libelle;
